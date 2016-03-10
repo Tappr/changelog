@@ -1,4 +1,9 @@
-# Appstore Release `2.3.1`
+
+# Appstore Release `2.3.2`
+## [b245](https://gitlab.com/Tappr/tappr-ios/tree/b245) (10 Mar 2016)
+### Fixed Bugs
+- Crash on checking createdBy
+
 ## [b244](https://gitlab.com/Tappr/tappr-ios/tree/b244) (10 Mar 2016)
 ### Feature
 - View the user who created the order in order details
