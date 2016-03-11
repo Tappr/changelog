@@ -1,6 +1,19 @@
 
-# Appstore Release `2.3.2`
-## [b245](https://gitlab.com/Tappr/tappr-ios/tree/b245) (10 Mar 2016)
+# Appstore Release `2.3.5`
+## [b248](https://gitlab.com/Tappr/tappr-ios/tree/b248) (16 Mar 2016)
+### Fixed Bugs
+- Fixed a crash where a user did not have a first or last name
+
+
+## [b247](https://gitlab.com/Tappr/tappr-ios/tree/b247) (14 Mar 2016)
+### Fixed Bugs
+- Fixed a crash causing bug
+
+## [b246](https://gitlab.com/Tappr/tappr-ios/tree/b246) (11 Mar 2016)
+### Improvements
+- Crash reports now report user details
+
+## [b245](https://gitlab.com/Tappr/tappr-ios/tree/b245) (11 Mar 2016)
 ### Fixed Bugs
 - Crash on checking createdBy
 
