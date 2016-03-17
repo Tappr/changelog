@@ -1,5 +1,12 @@
+## [b250](https://gitlab.com/Tappr/tappr-ios/tree/b250) (17 Mar 2016)
+### Fixed Bugs
+- ABN/ACN entered during registration with spaces are no longer _invalud_
 
 # Appstore Release `2.3.5`
+## [b249](https://gitlab.com/Tappr/tappr-ios/tree/b249) (17 Mar 2016)
+### Fixed Bugs
+- Fixed a crash that could happen on the Product List screen
+
 ## [b248](https://gitlab.com/Tappr/tappr-ios/tree/b248) (16 Mar 2016)
 ### Fixed Bugs
 - Fixed a crash where a user did not have a first or last name
