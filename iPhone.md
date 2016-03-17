@@ -11,10 +11,9 @@
 ### Fixed Bugs
 - Fixed a crash where a user did not have a first or last name
 
-
 ## [b247](https://gitlab.com/Tappr/tappr-ios/tree/b247) (14 Mar 2016)
 ### Fixed Bugs
-- Fixed a crash causing bug
+- Fixed a crash that could occur in the background
 
 ## [b246](https://gitlab.com/Tappr/tappr-ios/tree/b246) (11 Mar 2016)
 ### Improvements
